@@ -1,0 +1,2 @@
+{'learning_rate': 0.2, 'max_depth': 5, 'n_estimators': 400} take 1
+{'learning_rate': 0.25, 'max_depth': 5, 'n_estimators': 400} take 2 feature seletion and normalization
